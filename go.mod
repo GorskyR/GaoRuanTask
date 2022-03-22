@@ -1,3 +1,3 @@
-module Task1Menu
+module GaoRuanTask
 
 go 1.17
