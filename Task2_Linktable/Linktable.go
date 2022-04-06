@@ -141,17 +141,3 @@ func main() {
 		fmt.Println(errors.New("链表为空").Error())
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
